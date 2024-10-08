@@ -1,7 +1,7 @@
 1. feat - feature [when you add new feature,functionality]
 2. style - styling [when you changed small css style without layout change e.g add,change margin,spacing,padding,color etc]
 3. fix - bugfix [when you fix bugs]
-4. refector - code refectoring [when you refectoring code for performace optimization,load time,or follow the better approach]
+4. refactor - code refectoring [when you refectoring code for performace optimization,load time,or follow the better approach]
 5. content - content [when you add,remove,update text,image or other media]
 6. init - initialize [when you initialize first project]
 7. api - api [when you add,remove,update api endpoints]
@@ -14,3 +14,6 @@
 14. responsive - responsive [adjust various screen size]
 15. cleanup - cleanup [cleaning up the codebase by removing outdated,
  redundant, or unused code, files, or configurations.]
+16. i18n (internationalization)
+17. arch (architecture)
+18. locale (localization)
